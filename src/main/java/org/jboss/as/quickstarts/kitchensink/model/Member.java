@@ -65,7 +65,7 @@ public class Member implements Serializable {
    }
 
    public void setEmail(String email) {
-      this.email = email;
+      this.email = Fail
    }
 
    public String getPhoneNumber() {
